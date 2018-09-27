@@ -1,8 +1,13 @@
 # storybook-marua
 
-> Quock Study of Story Book for Vue
+> Study of Story Book for Vue
 
-## To view
+## Build Setup
 
-``` Pull the repo and run npm run storybook
+``` bash
+# install dependencies
+npm install
+
+# Pull the repo and run npm run storybook
+
 ```
